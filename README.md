@@ -23,5 +23,3 @@ docker exec -i lab-mariadb mariadb -uroot -p"<senha>" < setup.sql
 ```
 
 CloudBeaver: http://localhost:8978 (host da conexão: `mariadb`, porta `3306`).
-
-cbadmin
